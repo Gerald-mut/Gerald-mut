@@ -1,8 +1,5 @@
-## Hi there 👋
-
-<!--
-
-
+## Hi there 👋, I'm Gerald Muteru and im an aspiring software developer.
+## Currently a student at Meru University.
 
 - 🔭 I’m currently working on django projects.
 - 🌱 I’m currently learning about data structures and algorithms using python.
