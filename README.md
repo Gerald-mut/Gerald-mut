@@ -35,5 +35,5 @@ When I’m not coding, you’ll find me vibing to anything from 90s hip hop and 
 ---
 
 ### 📫 Let’s Connect
-Feel free to [reach out](muterugerald@gmail.com) or check out my latest commits here on GitHub!
+Feel free to reach out at muterugerald@gmail.com or check out my latest commits here on GitHub!
 
