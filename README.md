@@ -1,7 +1,7 @@
   ## Hey, I'm Gerald 👋
 
 🎓 CS student with a love for clean code, thoughtful design, and solving real-world problems through tech.  
-💻 Currently interning as a frontend dev — building intuitive UIs that actually make sense.
+💻 Currently interning as a frontend dev building intuitive UIs that actually make sense.
 
 ### 🛠 Tech Stack
 - **Languages:** JavaScript, TypeScript, Python
