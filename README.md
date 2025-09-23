@@ -24,7 +24,6 @@ A platform to help communities access essential services like water, electricity
 ---
 
 ### 🔭 Currently
-- Building a document management system at my internship
 - Expanding my web design skills to blend aesthetic + function
 
 ---
