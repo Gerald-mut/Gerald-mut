@@ -1,38 +1,37 @@
-  ## Hey, I'm Gerald 👋
+## Hey, I'm Gerald 👋
 
-🎓 CS student with a love for clean code, thoughtful design, and solving real-world problems through tech.  
-💻 Currently interning as a frontend dev building intuitive UIs that actually make sense.
+🎓 **Computer Science Student** | 🎨 **Frontend Developer**
+
+I’m a developer with a love for clean code, thoughtful design, and solving real-world problems through tech. Currently, I'm interning as a frontend dev, focusing on building intuitive UIs that bridge the gap between aesthetics and functionality.
 
 ### 🛠 Tech Stack
 - **Languages:** JavaScript, TypeScript, Python
-- **Frontend:** React, Tailwind, HTML/CSS
-- **Version Control:** Git & GitHub
-- **Backend (Basics):** Django
+- **Frontend:** React, Tailwind CSS, HTML/CSS
+- **Backend:** Django
+- **Tools:** Git, GitHub, Figma
 
 ---
 
 ### 🚀 Projects & Hackathons
 
-**🌐 ChainAfric**  
-*React, African language support*
-A multi-asset tracking system using blockchain principles. I led the frontend, crafting a user-friendly interface with multilingual support.
+**🌳 Sauti Porini** *Civic-Tech MVP | Satellite Data & USSD* A conservation tool designed to combat deforestation. The system leverages satellite data for monitoring and USSD technology to allow local communities to report illegal logging in real-time, bridging the digital divide in conservation efforts.
 
-**🏘️ Community Access Platform**  
-*Django + frontend*  
-A platform to help communities access essential services like water, electricity, and security. I handled both the frontend and Django backend integration.
+**🌐 ChainAfric** *React | Blockchain Principles* A multi-asset tracking system built with African context in mind. I led the frontend development, crafting a responsive, multilingual interface to make blockchain asset tracking accessible to a wider audience.
+
+**🏘️ Mystic Oracle: The Flirty Fortune Teller** *C# + Frontend Integration* A fun and interactive web-based Fortune Teller application built with ASP.NET Core Razor Pages. Enter your name, and the Mystic Oracle will reveal your destiny with a touch of magic, charm, and even a playful shake if you're too enchanting!
 
 ---
 
-### 🔭 Currently
-- Expanding my web design skills to blend aesthetic + function
+### 🔭 Currently Working On
+- 🎟️ **Event Ticketing Platform:** Developing a dynamic event management and ticketing website using **React**, focusing on complex UI states and user experience.
+- 🎨 **Design Systems:** Expanding my skills in blending UI aesthetics with functional architecture.
 
 ---
 
 ### 🎧 Fun Stuff
-When I’m not coding, you’ll find me vibing to anything from 90s hip hop and R&B to jazz, indie, reggae, and alternative soul.
+When I’m not coding, you’ll find me vibing to anything from **90s hip hop and R&B** to **jazz, indie, reggae, and alternative soul**.
 
 ---
 
 ### 📫 Let’s Connect
-Feel free to reach out at muterugerald@gmail.com or check out my latest commits here on GitHub!
-
+Feel free to reach out at [muterugerald@gmail.com](mailto:muterugerald@gmail.com) or explore my repositories below!
