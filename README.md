@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student** | 🎨 **Frontend Developer**
 
-I’m a developer with a love for clean code, thoughtful design, and solving real-world problems through tech. Currently, I'm focusing on building intuitive UIs that bridge the gap between aesthetics and functionality.
+I build accessible technology that gives communities tools to protect their environment, constantly learning new technologies to expand the impact I can create.
 
 ### 🛠 Tech Stack
 - **Languages:** JavaScript, TypeScript, Python
