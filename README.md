@@ -2,13 +2,26 @@
 
 🎓 **Computer Science Student** | 🎨 **Frontend Developer**
 
-I’m a developer with a love for clean code, thoughtful design, and solving real-world problems through tech. Currently, I'm interning as a frontend dev, focusing on building intuitive UIs that bridge the gap between aesthetics and functionality.
+I’m a developer with a love for clean code, thoughtful design, and solving real-world problems through tech. Currently, I'm focusing on building intuitive UIs that bridge the gap between aesthetics and functionality.
 
 ### 🛠 Tech Stack
 - **Languages:** JavaScript, TypeScript, Python
 - **Frontend:** React, Tailwind CSS, HTML/CSS
 - **Backend:** Django
 - **Tools:** Git, GitHub, Figma
+
+---
+
+### 💼 Proffesional Experience
+**Frontend Developer Intern** *| Lanstar Technologies., Nairobi May 2025 – August 2025*
+- **Collaborated with product teams to build a scalable Document Management System
+(DMS), reducing feature delivery cycles by 15% through Agile practices.**
+- **Engineered responsive frontend interfaces using React and TypeScript, translating
+high-fidelity Figma mockups into functional code.**
+- **Integrated RESTful APIs to enable secure document upload and Role-Based Access
+Control (RBAC), enhancing system security.**
+- **Debugged and optimized application performance, ensuring a seamless user
+experience for corporate clients.**
 
 ---
 
